@@ -1,4 +1,4 @@
-Hello there 👋 Watchout ❝[I'm Mohit Chaudhary](https://mohitchaudhary.com/)❞ !!!
+Hello there 👋 Checkout ❝[I'm Mohit Chaudhary](https://mohitchaudhary.com/)❞ !!!
 
 ![Mohit Chaudhary Site](https://live.staticflickr.com/65535/51550117584_c70c71e2b5_b.jpg "Mohit Chaudhary Site")
 
