@@ -9,7 +9,7 @@ Coding is something I'm quite enthusiastic about. It could be for front-end or b
 - 💬 Ask me about full stack development using Angular 
 - 📫 How to reach me: [Contact details](https://mohitchaudhary.com/#/contact) available here
 
-« » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « »
+« » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « » « »
 
 🌏 Find me on [LinkedIn](https://www.linkedin.com/in/mohitchaudhary91/)
 
