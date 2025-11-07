@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Mohit
-<br>
+---
 
 I build **reliable backend systems**, **high-performance microservices**, and **cloud-ready architectures** that scale.  
 With **10+ years** in product engineering, I’ve worked across **Java ecosystems**, **distributed systems**, and **cloud platforms**, helping teams ship clean, maintainable, and impactful code.
